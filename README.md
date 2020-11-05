@@ -1,2 +1,0 @@
-# Mathematiques-NSI
-## essai
